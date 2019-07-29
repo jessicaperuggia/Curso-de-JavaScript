@@ -137,7 +137,7 @@ button[disabled=disabled], button:disabled {
 	background-color: lightcoral;
 }
 
-#mensagens-erro{
+#mensagens-erro {
 	color: red;
 }
 
@@ -152,6 +152,10 @@ button[disabled=disabled], button:disabled {
     margin-bottom: 10px;
 }
 
-.invisivel{
+.invisivel {
     display: none;
+}
+
+#erro-Ajax {
+	color: red;
 }
